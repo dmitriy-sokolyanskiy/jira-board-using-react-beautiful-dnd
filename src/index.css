@@ -1,0 +1,7 @@
+.main > div:hover {
+    background: red !important;
+}
+
+h2:hover {
+    background: green;
+}
